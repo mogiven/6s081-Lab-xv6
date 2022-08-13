@@ -1,0 +1,13 @@
+
+xv6 kernel is booting
+
+hart 1 starting
+hart 2 starting
+init: starting sh
+$ stats
+copyin: 0
+copyinstr: 0
+$ stats
+copyin: 0
+copyinstr: 0
+$ qemu-system-riscv64: terminating on signal 15 from pid 42598 (make)
